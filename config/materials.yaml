@@ -1,0 +1,16 @@
+WSe2_MoSe2:
+  a_0: 3.32
+  aWSe2: 3.32
+  aMoSe2: 3.29 
+  v_r: [11.8e-3, 79.5]  # eV, degrees
+  v_h: [1.8e-3, 155.2]   # eV, degrees
+  m_e: 0.49
+  m_h: 0.35
+WS2_MoS2:
+  a_0: 3.19
+  aWS2: 3.19
+  aMoS2: 3.16 
+  v_r: [12.4e-3, 81.5]  # eV, degrees
+  v_h: [1.8e-3, 154.5]   # eV, degrees
+  m_e: 0.42
+  m_h: 0.34
