@@ -1,0 +1,5 @@
+name: "test"
+description: "Test configuration for interlayer exciton project"
+material: "WSe2/MoSe2"
+twist_angle_deg: [0.0, 1.0, 2.0]  # degrees
+stackings: ["AA", "AB"]
